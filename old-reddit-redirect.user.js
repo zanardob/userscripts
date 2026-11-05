@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old Reddit Redirect
 // @namespace    https://zanardo.dev/
-// @version      2.0.2
+// @version      2.0.3
 // @author       .zb
 // @description  Old Reddit version by default, with a menu toggle for the new UI
 // @license      GPL-3.0-only

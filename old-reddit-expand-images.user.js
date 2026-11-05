@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old Reddit Expand Images
 // @namespace    https://zanardo.dev/
-// @version      1.1.2
+// @version      1.1.3
 // @author       .zb
 // @description  Show inline images in old Reddit comments and posts instead of &lt;image&gt; links
 // @license      GPL-3.0-only
