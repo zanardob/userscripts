@@ -4,6 +4,8 @@
 // @version      2.0.0
 // @author       .zb
 // @description  Old Reddit version by default, with a menu toggle for the new UI
+// @downloadURL  https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-redirect.js
+// @updateURL    https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-redirect.js
 // @match        https://www.reddit.com/*
 // @match        https://reddit.com/*
 // @match        https://old.reddit.com/*

@@ -4,6 +4,8 @@
 // @version      1.1.0
 // @author       .zb
 // @description  Show inline images in old Reddit comments and posts instead of <image> links
+// @downloadURL  https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-expand-images.js
+// @updateURL    https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-expand-images.js
 // @match        https://old.reddit.com/*
 // @grant        none
 // @noframes
