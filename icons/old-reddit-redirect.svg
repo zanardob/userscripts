@@ -12,5 +12,5 @@
     <path d="M107.8 76.92c-2.14 0-3.87-.89-3.87-2.27 0-16.01 13.03-29.04 29.04-29.04 2.14 0 3.87 1.73 3.87 3.87s-1.73 3.87-3.87 3.87c-11.74 0-21.29 9.55-21.29 21.29 0 1.38-1.73 2.27-3.87 2.27Z" fill="#FFF"/>
   </g>
   <circle cx="94" cy="94" r="25" fill="#FFF" stroke="#FF4500" stroke-width="4"/>
-  <path d="M81 110V101C81 92 87 86 96 86H106 M99 78L107 86L99 94" fill="none" stroke="#FF4500" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M81 110V101C81 92 87 86 96 86H106 M99 78L107 86L99 94" transform="translate(94 94) scale(.85) translate(-94 -94)" fill="none" stroke="#FF4500" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
