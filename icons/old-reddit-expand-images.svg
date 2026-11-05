@@ -13,4 +13,7 @@
   </g>
   <circle cx="94" cy="94" r="25" fill="#FFF" stroke="#FF4500" stroke-width="4"/>
   <path d="M79 87V79H87 M101 79H109V87 M109 101V109H101 M87 109H79V101" fill="none" stroke="#FF4500" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="85.5" y="87.5" width="17" height="14" rx="1.5" fill="none" stroke="#FF4500" stroke-width="2"/>
+  <circle cx="90" cy="91.5" r="1.25" fill="#FF4500"/>
+  <path d="M87 100L92 95L96 99L98.5 97L101 99.5" fill="none" stroke="#FF4500" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
