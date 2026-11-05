@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old Reddit Redirect
 // @namespace    https://zanardo.dev/
-// @version      2.0.1
+// @version      2.0.2
 // @author       .zb
 // @description  Old Reddit version by default, with a menu toggle for the new UI
 // @license      GPL-3.0-only
@@ -9,6 +9,7 @@
 // @supportURL   https://github.com/zanardob/userscripts/issues
 // @downloadURL  https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-redirect.user.js
 // @updateURL    https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-redirect.user.js
+// @icon         https://raw.githubusercontent.com/zanardob/userscripts/main/icons/old-reddit-redirect.png
 // @match        https://www.reddit.com/*
 // @match        https://reddit.com/*
 // @match        https://old.reddit.com/*

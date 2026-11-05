@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Old Reddit Expand Images
 // @namespace    https://zanardo.dev/
-// @version      1.1.1
+// @version      1.1.2
 // @author       .zb
 // @description  Show inline images in old Reddit comments and posts instead of &lt;image&gt; links
 // @license      GPL-3.0-only
@@ -9,6 +9,7 @@
 // @supportURL   https://github.com/zanardob/userscripts/issues
 // @downloadURL  https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-expand-images.user.js
 // @updateURL    https://raw.githubusercontent.com/zanardob/userscripts/main/old-reddit-expand-images.user.js
+// @icon         https://raw.githubusercontent.com/zanardob/userscripts/main/icons/old-reddit-expand-images.png
 // @match        https://old.reddit.com/*
 // @grant        none
 // @noframes
